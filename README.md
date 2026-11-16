@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Projects
+
+**Embryo Projects** is Embryo-Zero's fork of [openproject](https://github.com/opf/openproject), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # OpenProject
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/opf/openproject)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/opf/openproject)
